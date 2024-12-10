@@ -20,8 +20,8 @@ const Services = () => {
                         <div className="item5">120 mins</div>
                         <div className="price1">$60</div>
                         <div className="price2">$80</div>
-                        <div className="price3">$90</div>
-                        <div className="price4">$100</div>
+                        <div className="price3">$100</div>
+                        <div className="price4">$140</div>
                         <div className="price5">$180</div>
                     </div>
                 </div>

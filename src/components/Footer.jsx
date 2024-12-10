@@ -12,6 +12,7 @@ function Footer() {
                 {/* <i class="fa-solid fa-phone"></i> */}
                 <p>phone</p>
                 <h2>0401 536 261</h2>
+                <h6 className='attribution'>website created by Elevate Web Solutions</h6>
 
             </div>
             <div className='right-section'>
